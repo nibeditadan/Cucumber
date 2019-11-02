@@ -1,0 +1,15 @@
+2019-10-31 10:10:537 INFO  WaitHelper:20 - waiting for element visibilityOf..
+2019-10-31 10:10:262 INFO  WaitHelper:23 - element is visible..
+2019-10-31 10:10:984 INFO  WaitHelper:20 - waiting for element visibilityOf..
+2019-10-31 10:10:133 INFO  WaitHelper:23 - element is visible..
+2019-10-31 10:10:660 INFO  ServiceHooks:42 - Wrong Credentials message is pass
+2019-10-31 10:10:50 INFO  WaitHelper:20 - waiting for element visibilityOf..
+2019-10-31 10:10:263 INFO  WaitHelper:23 - element is visible..
+2019-10-31 10:10:522 INFO  ServiceHooks:42 - ForgetPassword Link is pass
+2019-10-31 10:10:554 INFO  WaitHelper:20 - waiting for element visibilityOf..
+2019-10-31 10:10:133 INFO  WaitHelper:23 - element is visible..
+2019-10-31 10:10:229 INFO  WaitHelper:20 - waiting for element visibilityOf..
+2019-10-31 10:10:288 INFO  WaitHelper:23 - element is visible..
+2019-10-31 10:10:528 INFO  WaitHelper:20 - waiting for element visibilityOf..
+2019-10-31 10:10:574 INFO  WaitHelper:23 - element is visible..
+2019-10-31 10:10:431 INFO  ServiceHooks:33 - Sign In with valid credential is Failed
