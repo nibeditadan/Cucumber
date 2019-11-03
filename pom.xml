@@ -68,7 +68,7 @@
 				<testFailureIgnore>true</testFailureIgnore>
 					<suiteXmlFiles>
 					<!-- src/test/resources/testSuites/testng.xml -->
-						<suiteXmlFile>testNg.xml</suiteXmlFile>
+						<suiteXmlFile>testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
